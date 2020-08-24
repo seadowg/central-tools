@@ -2,6 +2,7 @@
 
 set -e
 
+cd ~/
 cp central/.env .
 
 pushd central
